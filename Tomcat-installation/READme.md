@@ -21,7 +21,6 @@ cd /opt
 # install Java JDK 1.8+ as a pre-requisit for tomcat to run.
 sudo yum install git wget unzip -y
 sudo yum install java-1.8.0-openjdk-devel -y
-# install wget unzip packages.
 ```
 ## Install Tomcat version 9.0.75
 ### Download and extract the tomcat server
